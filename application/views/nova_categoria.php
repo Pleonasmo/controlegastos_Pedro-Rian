@@ -11,7 +11,7 @@
     <form action="">
 
         Nome: <input type="text" name="nome_cat">
-        Descrição: <input type="text" name="descricao_cat">
+        Descrição: <input type="text" name="descricao_cat"> <br>
         <button type="button">Confirmar</button>
         <button type="reset">Limpar</button>
 
