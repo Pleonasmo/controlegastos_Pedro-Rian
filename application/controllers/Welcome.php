@@ -20,6 +20,6 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('listar_gastos');
+		$this->load->view('novo_gasto');
 	}
 }
