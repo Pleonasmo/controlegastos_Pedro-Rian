@@ -8,10 +8,11 @@
 </head>
 <style>
     table, tr, td{
-        border: 1px solid red;
+        border: 1px solid black;
     }
 </style>
 <body>
+    <h1>Lista de gastos rotineiros</h1>
     <table>
         <tr>
             <td><b>DATA</b></td>

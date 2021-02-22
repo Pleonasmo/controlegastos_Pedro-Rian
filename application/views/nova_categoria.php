@@ -7,13 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Cadastrar novo gasto</h1>
+    <h1>Cadastro de nova categoria</h1>
     <form action="">
 
-        Data: <input type="date" name="data" id=""> <br>
-        Descrição: <input type="text" name="descricao" id=""> <br>
-        Valor: <input type="number" name="valor" id=""> <br>
-        <button type="button">Confirmar</button> <br>
+        Nome: <input type="text" name="nome_cat">
+        Descrição: <input type="text" name="descricao_cat">
+        <button type="button">Confirmar</button>
         <button type="reset">Limpar</button>
 
     </form>
