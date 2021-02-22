@@ -6,6 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabela de gastos</title>
 </head>
+<style>
+    table{
+        border: 1px solid red;
+    }
+</style>
 <body>
     <table>
         <tr>
