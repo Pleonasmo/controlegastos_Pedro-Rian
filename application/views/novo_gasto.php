@@ -9,10 +9,10 @@
 <body>
     <form action="">
 
-        <input type="date" name="data" id="">
-        <input type="text" name="descricao" id="">
-        <input type="text" name="valor" id="">
-        <button type="submit">Confirmar</button>
+        Data: <input type="date" name="data" id=""> <br>
+        Descrição: <input type="text" name="descricao" id=""> <br>
+        Valor: <input type="text" name="valor" id=""> <br>
+        <button type="submit">Confirmar</button> <br>
         <button>Limpar</button>
 
     </form>
