@@ -14,9 +14,9 @@
 <body>
     <table>
         <tr>
-            <td>Data</td>
-            <td>Descrição</td>
-            <td>Valor</td>
+            <td><b>DATA</b></td>
+            <td><b>DESCRIÇÃO</b></td>
+            <td><b>VALOR</b></td>
         </tr>
         <tr>
             <td>10/01/2021</td>
