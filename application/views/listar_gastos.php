@@ -7,7 +7,7 @@
     <title>Tabela de gastos</title>
 </head>
 <style>
-    table{
+    table, tr, td{
         border: 1px solid red;
     }
 </style>
